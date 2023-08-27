@@ -1,0 +1,10 @@
+docker start mysql-db
+
+Valores por defecto para Fetch
+@OneToMany
+@ManyToMany
+LAZY
+
+@ManyToOne
+@OneToOne
+EAGER
